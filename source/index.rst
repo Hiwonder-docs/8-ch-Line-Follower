@@ -21,6 +21,3 @@
    docs/7.Raspberry_Pi_Communication_checked.md
    docs/8.Jetson_Communication_checked.md
    docs/Appendix.md
-
-
-
