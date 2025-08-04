@@ -21,3 +21,4 @@
    docs/7.Raspberry_Pi_Communication_checked.md
    docs/8.Jetson_Communication_checked.md
    docs/Appendix.md
+   Download <https://drive.google.com/drive/folders/1msBR5EYcObjsTJ1KRKBRr0kevg39aqeT?usp=sharing>
